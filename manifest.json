@@ -1,8 +1,7 @@
 {
   "short_name": "Sudoku",
-  "name": "Sudoku Web App by Barry Michael Doyle",
-  "icons": [
-    {
+  "name": "Sudoku Web App by Prashant Kumar",
+  "icons": [{
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
@@ -21,5 +20,5 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "white",
-  "background_color": "#282C34"
+  "background_color": "#000"
 }
